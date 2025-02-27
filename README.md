@@ -1,3 +1,14 @@
+# ⚡ New Version Available! ⚡
+
+👉 **[Check out YT Bias & Fact Checker v2](https://github.com/Dev07-Harsh/YT-Bias-Fact-Checker-v2)** 👈  
+
+🔹 **What's New?**  
+✔️ **No Google Custom Search API required** – Now uses direct web scraping for more flexibility.  
+✔️ **Optimized AI-powered fact-checking** for better accuracy and efficiency.  
+
+You can continue using this version, or try out the new one! 🚀  
+
+---
 # YT Bias & Fact Checker
 
 The **YT Bias & Fact Checker** is an AI-powered tool designed to assess YouTube videos for factual correctness, bias, and logical consistency. It extracts transcripts, generates search queries, and retrieves relevant sources using the Google Custom Search API. The tool consists of a Flask-based backend and a Chrome extension that provides a user-friendly and persistent interface.
